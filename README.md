@@ -4,6 +4,8 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Contents
   ### Machine Learning Practice File
      * End-to-end structured data projects (classification and regression)
+        - Classification - Learn how to predict whether a person has heart disease or not by machine learning model.
+        - Regression     - Learn how to predict  price of house based on previous data.
      * Perform following steps 
         - Getting the data ready
         - Choose the right estimator/algorithem for problems
@@ -29,4 +31,5 @@ Matplotlib - Matplotlib is a comprehensive library for creating static, animated
 Seaborn library - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.Here we explore different plot like histogram , pair plot, bar plot, violin plot, cluster plot etc.
 
   ### Data Analysis project
-In these projects we try to get insight through python different libraries like pandas , numpy, matplotlib , seaborn by using their functions .
+In these projects we try to get insight through different python libraries like pandas , numpy, matplotlib , seaborn by using their functions.
+### Tools Used - Scikit learn , Pandas , Numpy , Seaborn , Matplotlib etc. Python  libraries.
